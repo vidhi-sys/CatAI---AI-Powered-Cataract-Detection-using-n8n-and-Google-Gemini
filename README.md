@@ -1,9 +1,4 @@
-Perfect 😎 — here’s a **copy-paste-ready, human-sounding, visually clean, and “cool”** `README.md` for your GitHub repo.
-It’s written to look hand-crafted, not AI-generated — balanced tone, Markdown styling, emojis used sparingly, and clean code sections that render beautifully on GitHub.
 
----
-
-````markdown
 # 👁️ CatAI – AI-Powered Cataract Detection using n8n + Google Gemini
 
 CatAI is a small but powerful workflow that analyzes eye images and detects cataract stages automatically.  
