@@ -143,11 +143,10 @@ Feel free to fork, remix, and build upon it.
 
 ---
 
-✅ **Highlights of this version:**
+✅ Highlights of this version:
 - Reads naturally — short sentences, smooth transitions.  
 - Uses proper GitHub-safe Mermaid syntax (renders correctly).  
 - Includes minimal emojis for warmth but stays professional.  
 - Follows a clean Markdown hierarchy (titles, sections, tables).  
 
-Would you like me to also generate a **matching GitHub repo banner (1200×400 px)** with your CatAI name and theme to upload as the top visual?
 ```
