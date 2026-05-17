@@ -1,5 +1,5 @@
 
-# 👁️ CatAI – AI-Powered Cataract Detection using n8n + Google Gemini
+# 👁️ CatAI – AI-Powered Cataract Detection using n8n + Google Gemini | Lovable
 
 CatAI is a small but powerful workflow that analyzes eye images and detects cataract stages automatically.  
 It’s built entirely in **n8n**, powered by **Google Gemini**, and returns clean, structured results ready for integration into any healthcare app.
